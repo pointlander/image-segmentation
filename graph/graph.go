@@ -5,7 +5,7 @@
 package graph
 
 import (
-	"github.com/miguelfrde/image-segmentation/utils"
+	"github.com/pointlander/image-segmentation/utils"
 	"image"
 	"image/color"
 	"math"

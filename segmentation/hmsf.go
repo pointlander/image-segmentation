@@ -2,10 +2,10 @@ package segmentation
 
 import (
 	"fmt"
-	"github.com/miguelfrde/image-segmentation/disjointset"
-	"github.com/miguelfrde/image-segmentation/graph"
-	"github.com/miguelfrde/image-segmentation/imagenoise"
-	"github.com/miguelfrde/image-segmentation/utils"
+	"github.com/pointlander/image-segmentation/disjointset"
+	"github.com/pointlander/image-segmentation/graph"
+	"github.com/pointlander/image-segmentation/imagenoise"
+	"github.com/pointlander/image-segmentation/utils"
 	"math"
 	"sort"
 	"time"

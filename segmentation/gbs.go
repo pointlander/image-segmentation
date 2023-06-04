@@ -2,8 +2,8 @@ package segmentation
 
 import (
 	"fmt"
-	"github.com/miguelfrde/image-segmentation/disjointset"
-	"github.com/miguelfrde/image-segmentation/graph"
+	"github.com/pointlander/image-segmentation/disjointset"
+	"github.com/pointlander/image-segmentation/graph"
 	"sort"
 	"time"
 )

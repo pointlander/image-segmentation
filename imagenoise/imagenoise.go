@@ -2,8 +2,8 @@ package imagenoise
 
 import (
 	"fmt"
-	"github.com/miguelfrde/image-segmentation/utils"
-	"github.com/miguelfrde/imaging"
+	"github.com/pointlander/image-segmentation/utils"
+	"github.com/pointlander/imaging"
 	"image"
 	"math"
 	"runtime"

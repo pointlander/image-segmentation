@@ -7,9 +7,9 @@ package segmentation
 
 import (
 	"fmt"
-	"github.com/miguelfrde/image-segmentation/disjointset"
-	"github.com/miguelfrde/image-segmentation/graph"
-	"github.com/miguelfrde/imaging"
+	"github.com/pointlander/image-segmentation/disjointset"
+	"github.com/pointlander/image-segmentation/graph"
+	"github.com/pointlander/imaging"
 	"image"
 	"time"
 )

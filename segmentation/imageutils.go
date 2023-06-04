@@ -1,7 +1,7 @@
 package segmentation
 
 import (
-	"github.com/miguelfrde/image-segmentation/disjointset"
+	"github.com/pointlander/image-segmentation/disjointset"
 	"image"
 	_ "image/gif"
 	_ "image/jpeg"

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/miguelfrde/image-segmentation/graph"
-	"github.com/miguelfrde/image-segmentation/segmentation"
+	"github.com/pointlander/image-segmentation/graph"
+	"github.com/pointlander/image-segmentation/segmentation"
 	"html/template"
 	"image"
 	"image/png"
